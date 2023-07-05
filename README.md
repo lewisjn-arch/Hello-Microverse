@@ -24,10 +24,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [First-Project] <a name="about-project"></a>
+# 📖 [HELLO-MICROVERSE] <a name="about-project"></a>
 
 
-**[First-Project]** is a html/css project that I have done to teach me how to use linters.
+**[HELLO-MICROVERSE]** is a html/css project that I have done to teach me how to use linters, setup my first repository and learn github flow.
 
 ## 🛠 Built With <a name="html"></a>
 
@@ -94,7 +94,7 @@ You need to double-click the index.html file.
 
 
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@githubhandle](https://github.com/lewisjn-arch)
 - Twitter: [@twitterhandle](https://twitter.com/lhinga75)
